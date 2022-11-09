@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cheneba
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me chenebametuge14@gmail.com
 
 <!---
