@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/chenebametuge/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://www.facebook.com/YOUR-PAGE-NAME" target="_blank">
+<a href="https://facebook.com/chenebametuge/" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://metuge.dev" target="_blank">
@@ -32,13 +32,13 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cheneba&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Metuge's GitHub stats" />
+<img align="center" src="https://github-readme-stats-six-iota-37.vercel.app/api?username=Cheneba&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Metuge's GitHub stats" />
 </p>
 <p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cheneba&theme=dark&hide_border=true" alt="Metuge's GitHub streak" />
 </p>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheneba&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats-six-iota-37.vercel.app/api/top-langs/?username=Cheneba&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <h2 align="left">🚀 Open to work</h2>
